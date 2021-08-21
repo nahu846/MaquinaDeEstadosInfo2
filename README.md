@@ -6,4 +6,4 @@ Este sistema representa un control de acceso de una puerta. Para poder iniciar e
 
 Se va a utilizar un display LCD, un teclado matricial numerico, un sensor para la verificacion del estado de la puerta, y una cerradura automatica.
 
-![alt text](https://github.com/nahu846/MaquinaDeEstadosInfo2/blob/master/DiagramaDeEstados.png)
+![alt text](https://github.com/nahu846/MaquinaDeEstadosInfo2/blob/master/files/DiagramaDeEstados.png)
