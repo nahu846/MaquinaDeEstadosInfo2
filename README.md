@@ -1,5 +1,5 @@
 # Maquina De Estados
 
-<h1> Memoria descriptiva </h1>
+<h3> Memoria descriptiva </h3>
 
 ![alt text](https://github.com/nahu846/MaquinaDeEstadosInfo2/blob/master/DiagramaDeEstados.png)
